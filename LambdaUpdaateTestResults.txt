@@ -1,0 +1,16 @@
+Test Event Name
+updateTest
+
+Response
+{
+  "statusCode": 200,
+  "body": "{\"type\": \"update\", \"requestId\": \"38d51e39-c470-462b-a72b-cfd04335454e\", \"widgetId\": \"ad0bb9e1-28e9-46e0-ad08-8192f4d3b6c6\", \"owner\": \"John Jones\", \"label\": \"\", \"description\": \"QQGRLNZY\", \"otherAttributes\": [{\"name\": \"color\", \"value\": \"red\"}, {\"name\": \"size-unit\", \"value\": \"cm\"}, {\"name\": \"height\", \"value\": \"955\"}, {\"name\": \"width-unit\", \"value\": \"cm\"}, {\"name\": \"length\", \"value\": \"247\"}, {\"name\": \"price\", \"value\": \"71.11\"}, {\"name\": \"vendor\", \"value\": \"UPAZOD\"}, {\"name\": \"note\", \"value\": \"MUUDBUWKGVFCXPEUSKBBBDEYQTZDNWCPPGHFBXPILELOVETUGRTWMEMZMLKUEMAEOZTSMAMNFPISAMWFYZJHDQQSOIPOGFJY\"}]}"
+}
+
+Function Logs
+START RequestId: b28dea07-99bb-45d1-a731-daee56f18c84 Version: $LATEST
+END RequestId: b28dea07-99bb-45d1-a731-daee56f18c84
+REPORT RequestId: b28dea07-99bb-45d1-a731-daee56f18c84	Duration: 246.25 ms	Billed Duration: 247 ms	Memory Size: 128 MB	Max Memory Used: 65 MB
+
+Request ID
+b28dea07-99bb-45d1-a731-daee56f18c84

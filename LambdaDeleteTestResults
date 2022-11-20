@@ -1,0 +1,16 @@
+Test Event Name
+deleteTest
+
+Response
+{
+  "statusCode": 200,
+  "body": "{\"type\": \"delete\", \"requestId\": \"21cf74b2-dbf2-46bb-a274-b8e3eac679bf\", \"widgetId\": \"e50b4381-4332-438f-bcec-bd2b8c0fa5ed\", \"owner\": \"Sue Smith\"}"
+}
+
+Function Logs
+START RequestId: 45a68991-a7dc-493f-86f1-8795768635ba Version: $LATEST
+END RequestId: 45a68991-a7dc-493f-86f1-8795768635ba
+REPORT RequestId: 45a68991-a7dc-493f-86f1-8795768635ba	Duration: 249.57 ms	Billed Duration: 250 ms	Memory Size: 128 MB	Max Memory Used: 65 MB
+
+Request ID
+45a68991-a7dc-493f-86f1-8795768635ba
